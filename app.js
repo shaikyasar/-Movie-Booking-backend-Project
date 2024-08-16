@@ -21,7 +21,8 @@ app.use("/booking",booking_router);
 
 
 // Connect to MongoDB
-mongoose.connect("mongodb+srv://shaikyasar904:NqzRP6UhZZazHyjD@moviecluster.u9yk645.mongodb.net/?retryWrites=true&w=majority&appName=moviecluster", {
+//paste your connection string in the .connect ("your string");
+mongoose.connect("your_coonection string", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
