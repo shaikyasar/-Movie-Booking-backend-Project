@@ -1,4 +1,4 @@
-# -Movie-Booking-backend-Project
+# Movie-Booking-backend-Project
 This system includes User, Admin, Movies, and Booking modules. Users can sign up, log in, update, and delete accounts. Admins, authenticated via JWT, manage movies and user accounts. The Booking module allows users to book, update, and search reservations by ID.
 Project Overview
 This project is a comprehensive movie management system with four key modules: User, Admin, Movies, and Booking. Admins use JWT (JSON Web Token) for authentication and authorization, ensuring secure access. Each module is tailored to manage user interactions, administrative tasks, movie data, and bookings.
